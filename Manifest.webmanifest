@@ -1,6 +1,7 @@
 {
   "name": "Vecta ELD",
   "short_name": "Vecta",
+"id": "/Vecta-eld/",
   "description": "Vecta ELD interprets Nigerian landmarks, roads, buildings and everyday directions to help locate places more accurately.",
   "start_url": "/Vecta-eld/",
   "scope": "/Vecta-eld/",
